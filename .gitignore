@@ -1,0 +1,7 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+*.log
+generated_reports/*
+!generated_reports/weekly_report_2026-11-20.html
